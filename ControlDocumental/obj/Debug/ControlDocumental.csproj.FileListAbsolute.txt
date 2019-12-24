@@ -1,0 +1,26 @@
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\bin\Debug\ControlDocumental.exe.config
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\bin\Debug\ControlDocumental.exe
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\bin\Debug\ControlDocumental.pdb
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csprojResolveAssemblyReference.cache
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\Interop.ADOX.dll
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csproj.ResolveComReference.cache
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.Form1.resources
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.Properties.Resources.resources
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csproj.GenerateResource.Cache
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.exe
+c:\users\jacqueline\documents\visual studio 2013\Projects\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.pdb
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\bin\Debug\ControlDocumental.exe.config
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\Interop.ADOX.dll
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csproj.ResolveComReference.cache
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.exe
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.pdb
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\bin\Debug\ControlDocumental.exe
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\bin\Debug\ControlDocumental.pdb
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csprojResolveAssemblyReference.cache
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.Form1.resources
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.Properties.Resources.resources
+C:\Users\Elsa\Documents\Proyectos OTW\Sistema Orden de Compra\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csproj.GenerateResource.Cache
+C:\Users\Jacqueline\Documents\Proyectos OTW\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline\Documents\Proyectos OTW\ControlDocumental\ControlDocumental\obj\Debug\Interop.ADOX.dll
+C:\Users\Jacqueline\Documents\Proyectos OTW\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.exe
+C:\Users\Jacqueline\Documents\Proyectos OTW\ControlDocumental\ControlDocumental\obj\Debug\ControlDocumental.pdb
